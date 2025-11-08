@@ -1,0 +1,9 @@
+first,last,email,gender,mobile,dob,subjects,hobbies,state,city,expectedModal
+Tom,Smith,tom.smith@example.com,Male,0912345678,10 Oct 1990,Maths;English,Sports;Reading,NCR,Delhi,yes
+Anna,Lee,anna.lee@example,Female,0912345678,01 Jan 2000,Physics,Music,NCR,Delhi,no
+Bob,Nguyen,bob.nguyen@example.com,Male,12345,05 May 1995,Chemistry,Sports,Haryana,Karnal,no
+Kim,Tran,kim.tran@example.com,Female,0987654321,12 Dec 1992,Maths;Biology,Reading,Uttar Pradesh,Agra,yes
+Minh,Vo,minh.vo@example.com,,0987654321,15 Jul 1991,History,,NCR,Delhi,no
+Tom,Smith,tom.smith@example.com,Male,0912345678,10 Oct 1990,Maths,Sports,,,no
+Tom,Smith,tom.smith@example.com,Male,0912345678,10 Oct 1990,Maths,Sports,NCR,,no
+Tom,Smith,tom.smith@example.com,Male,,10 Oct 1990,Maths,Sports,NCR,Delhi,no
